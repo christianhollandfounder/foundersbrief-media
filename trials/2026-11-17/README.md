@@ -8,7 +8,7 @@ After each post, tag @sebjperalta in a story, which is what he asked for. Do not
 
 These are Mbodi film recuts with new hooks and big changing on-screen text. They are meant to differ from the cuts already going out on @foundersbrieffilms. Nothing in this folder is for LinkedIn.
 
-HQ remasters for the Films account sit next to the originals as `*_hq.mp4` (t02-t06 and t08-t10). They were rendered from the original Mbodi film, not by re-encoding the first trial files, at 1080x1920, libx264 High, about 9-10 Mbps. Use those URLs for Buffer posts on @foundersbrieffilms. t01 and t07 already met the bitrate bar, so they were left as-is.
+HQ remasters for the Films account sit next to the originals as `*_hq.mp4` (t02-t10, except t01). They were rendered from the original Mbodi film, not by re-encoding the first trial files, at 1080x1920, libx264 High, about 9-10 Mbps. Use those URLs for Buffer posts on @foundersbrieffilms. t01 already met the bitrate bar, so it was left as-is. t07 was remastered on 17 Nov 2026 with the corrected hook: "What if you could teach a robot just by talking to it?" Use `t07_teach_by_talking_hq.mp4` for any future post. Do not reuse the shorter wording.
 
 ## Today's 10
 
@@ -20,7 +20,7 @@ HQ remasters for the Films account sit next to the originals as `*_hq.mp4` (t02-
 | t04 | 3:30 PM | [t04_demos_empty.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t04_demos_empty.mp4) | The demos work. So why are the factories still empty?<br><br>Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.<br><br>Full film at foundersbrief.vc |
 | t05 | 4:30 PM | [t05_customers_factories.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t05_customers_factories.mp4) | His customers aren't AI labs. They're factories.<br><br>Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.<br><br>Full film at foundersbrief.vc |
 | t06 | 5:30 PM | [t06_warehouse_skyscraper.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t06_warehouse_skyscraper.mp4) | A random warehouse. Then a skyscraper in Hudson Yards.<br><br>Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.<br><br>Full film at foundersbrief.vc |
-| t07 | 6:30 PM | [t07_teach_by_talking.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t07_teach_by_talking.mp4) | What if you could teach a robot just by talking?<br><br>Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.<br><br>Full film at foundersbrief.vc |
+| t07 | 6:30 PM | [t07_teach_by_talking_hq.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t07_teach_by_talking_hq.mp4) | What if you could teach a robot just by talking to it?<br><br>Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.<br><br>Full film at foundersbrief.vc |
 | t08 | 7:30 PM | [t08_pick_up_camera.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t08_pick_up_camera.mp4) | POV: you pick up a camera to film a founder.<br><br>On set for FoundersBrief Films 001, with Sebastian Peralta of Mbodi AI.<br><br>Full film at foundersbrief.vc |
 | t09 | 8:30 PM | [t09_love_the_problem.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t09_love_the_problem.mp4) | Love the problem enough, and it stops feeling like work.<br><br>Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.<br><br>Full film at foundersbrief.vc |
 | t10 | 9:30 PM | [t10_whos_next.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t10_whos_next.mp4) | Who's getting filmed next?<br><br>FoundersBrief Films 001, with Sebastian Peralta, Co-Founder and CEO of Mbodi AI.<br><br>Full film at foundersbrief.vc |
@@ -125,12 +125,12 @@ Note: Tag @sebjperalta in a story after this goes up.
 
 ### t07  6:30 PM ET
 
-File: [t07_teach_by_talking.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t07_teach_by_talking.mp4)
+File: [t07_teach_by_talking_hq.mp4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-17/t07_teach_by_talking_hq.mp4)
 
 Caption:
 
 ```
-What if you could teach a robot just by talking?
+What if you could teach a robot just by talking to it?
 
 Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.
 
