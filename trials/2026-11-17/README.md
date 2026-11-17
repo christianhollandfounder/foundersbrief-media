@@ -8,6 +8,8 @@ After each post, tag @sebjperalta in a story, which is what he asked for. Do not
 
 These are Mbodi film recuts with new hooks and big changing on-screen text. They are meant to differ from the cuts already going out on @foundersbrieffilms. Nothing in this folder is for LinkedIn.
 
+HQ remasters for the Films account sit next to the originals as `*_hq.mp4` (t02-t06 and t08-t10). They were rendered from the original Mbodi film, not by re-encoding the first trial files, at 1080x1920, libx264 High, about 9-10 Mbps. Use those URLs for Buffer posts on @foundersbrieffilms. t01 and t07 already met the bitrate bar, so they were left as-is.
+
 ## Today's 10
 
 | # | Time (ET) | Video | Caption |
