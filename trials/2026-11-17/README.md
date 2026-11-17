@@ -4,7 +4,7 @@
 
 Open this file on your phone, download each video from the link, then post at the time listed. Times are America/New York (ET). Paste the caption exactly. No hashtags.
 
-After each post, tag @sebjperalta in a story, which is what he asked for. Do not put the tag in the caption. Invite him as a collaborator only later, on the single best performer, not on these tests.
+Do not tag or collaborate with Sebastian or anyone at Mbodi on these, in the caption, on the reel, or in a story.
 
 These are Mbodi film recuts with new hooks and big changing on-screen text. They are meant to differ from the cuts already going out on @foundersbrieffilms. Nothing in this folder is for LinkedIn.
 
@@ -41,7 +41,6 @@ Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.
 Full film at foundersbrief.vc
 ```
 
-Note: Tag @sebjperalta in a story after this goes up, or on the reel if Instagram offers it.
 
 ### t02  1:30 PM ET
 
@@ -57,7 +56,6 @@ A founder day in New York, from FoundersBrief Films 001.
 Full film at foundersbrief.vc
 ```
 
-Note: Tag @sebjperalta in a story after this goes up.
 
 ### t03  2:30 PM ET
 
@@ -73,7 +71,6 @@ FoundersBrief Films 001, with Sebastian Peralta, Co-Founder and CEO of Mbodi AI.
 Full film at foundersbrief.vc
 ```
 
-Note: Tag @sebjperalta in a story after this goes up.
 
 ### t04  3:30 PM ET
 
@@ -89,7 +86,6 @@ Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.
 Full film at foundersbrief.vc
 ```
 
-Note: Tag @sebjperalta in a story after this goes up.
 
 ### t05  4:30 PM ET
 
@@ -105,7 +101,6 @@ Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.
 Full film at foundersbrief.vc
 ```
 
-Note: Tag @sebjperalta in a story after this goes up.
 
 ### t06  5:30 PM ET
 
@@ -121,7 +116,6 @@ Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.
 Full film at foundersbrief.vc
 ```
 
-Note: Tag @sebjperalta in a story after this goes up.
 
 ### t07  6:30 PM ET
 
@@ -137,7 +131,6 @@ Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.
 Full film at foundersbrief.vc
 ```
 
-Note: Tag @sebjperalta in a story after this goes up.
 
 ### t08  7:30 PM ET
 
@@ -153,7 +146,6 @@ On set for FoundersBrief Films 001, with Sebastian Peralta of Mbodi AI.
 Full film at foundersbrief.vc
 ```
 
-Note: Tag @sebjperalta in a story after this goes up.
 
 ### t09  8:30 PM ET
 
@@ -169,7 +161,6 @@ Sebastian Peralta, Co-Founder and CEO of Mbodi AI, in FoundersBrief Films 001.
 Full film at foundersbrief.vc
 ```
 
-Note: Tag @sebjperalta in a story after this goes up.
 
 ### t10  9:30 PM ET
 
@@ -185,14 +176,12 @@ FoundersBrief Films 001, with Sebastian Peralta, Co-Founder and CEO of Mbodi AI.
 Full film at foundersbrief.vc
 ```
 
-Note: Optional: tag @sebjperalta in a story, since this cut is a FoundersBrief CTA more than a Sebastian portrait.
 
 ## How to post a trial reel
 
 1. Download the video from the link onto your phone.
 2. In Instagram, start a new Reel and pick that video. Do not add another hook sticker; the text is already burned in.
 3. Turn on Trial. This is in the Reel settings or sharing screen. Trial reels go to people who do not follow you yet.
-4. Paste the caption, then share at the time listed, or as close as you can.
-5. After it is up, tag @sebjperalta in a story.
+4. Paste the caption, then share at the time listed, or as close as you can. Do not tag anyone.
 
 If a slot has already passed, post the next one at its time and catch the missed one in the next open gap, still leaving about an hour between posts.
