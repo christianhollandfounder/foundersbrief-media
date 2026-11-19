@@ -1,0 +1,24 @@
+num,in,out,dur,hook,overlaps_existing,near_dup_note
+1,2.3,11.48,9.2,The world's factories and warehouses cannot find enough people to fill the jobs it runs on.,night #1,
+2,11.39,22.93,11.5,"Putting robots to work still takes costly engineering, so robots have to learn on their own.",night #1/10,
+3,26.45,39.41,13.0,Meet the founder who moved around his whole life and found his one constant in how things work.,4PM pack 100%; night #2/7,
+4,34.92,47.16,12.2,"He wanted to be an inventor and make his mark, so he studied physics, computer science and engineering.",4PM pack 100%; night #2/7,near-dup of 3/5 range
+5,42.26,52.89,10.6,"He followed the inventor path through computer science, physics and engineering, and it led him here.",4PM pack 100%; night #2/7,shares sentences with 4
+6,50.35,59.32,9.0,"Starting his own company was always the plan, and Google was just a temporary gig to pay off loans.",4PM pack 100%; night #4/7,
+7,54.64,69.44,14.8,"Google was a temporary gig, until ChatGPT made him start building software that programs robots.",4PM pack 100%; night #4,
+8,59.19,77.44,18.2,"When ChatGPT arrived, he saw AI could accelerate robotics, and he knew it was time to start.",4PM pack 100%; night #4,
+9,73.41,85.51,12.1,"Robots like the ones in the movies are possible, but robotics today is painful.",4PM pack 100%; night #4/6,ends where 10 starts
+10,78.21,88.22,10.0,"Robotics is painful to do today, and we keep seeing demos but never robots in our homes.",4PM pack 100%; night #6,overlaps 9 and 11
+11,82.38,94.48,12.1,"We keep seeing robot demos, so why do robots still repeat the same motion over and over?",4PM pack 100%; night #6,overlaps 10 and 12
+12,85.38,100.17,14.8,"Robots belong in factories, but the missing piece is an interface that ends monotonous human work.",4PM pack 100%; night #6,overlaps 11
+13,104.44,119.0,14.6,"The real need comes from manufacturers, logistics companies and pharma, and they taught him how to build a company.",4PM pack 100%,
+14,110.7,122.92,12.2,"Building a company taught him how to sell, how to trust what he is making, and what to ignore.",4PM pack 99%,tail shared with 13
+15,118.87,128.41,9.5,"He knows what to focus on and what not to, and he gets to do it in New York.",4PM pack 99%; night #3,starts inside 14 end
+16,141.48,152.58,11.1,"Founder stress is real, so he keeps his mind sharp by exercising and working out.",night #5,
+17,148.36,167.12,18.8,"As a founder, no two days look alike: the office, home, a warehouse, then investors in Hudson Yards.",4PM pack 80%; night #5,
+18,156.12,167.12,11.0,"Some days he is in the office, some at home, some in a warehouse, some pitching in a skyscraper.",4PM pack 100%,last 11s of 17
+19,168.8,177.75,8.9,"80% of the world's GDP is tied to physical labor, and robots are still stuck on repeat.",night #8,
+20,177.89,189.3,11.4,"For the first time, anyone can teach a robot new skills just by talking to it.",night #8,
+21,185.77,197.77,12.0,"He started this company because there is a better way to do robotics, and it can change the world.",night #9,overlaps 20 end
+22,65.9,77.44,11.5,Software that programs robots could finally give us robots like the ones in the movies.,4PM pack 100%; night #4,duplicates end of 8
+23,189.24,197.77,8.5,It doesn't feel like work when you love the problem and it can change the world.,night #9,duplicates end of 21
