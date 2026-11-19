@@ -1,0 +1,16 @@
+# Evening trial reels, Nov 18, 2026 (night pack)
+
+Personal account @christianhollandd. Clean excerpts from FoundersBrief Films 001, 1920x1080, with the film's own picture, sound and subtitles. Overlays: "FoundersBrief Films 001" top, "Full film at foundersbrief.vc" bottom.
+
+| # | Post time (ET) | Film time | Caption |
+|---|---|---|---|
+| [1](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_01.mp4) | 7:40 PM | 2.05-23.10s | Factories and warehouses can't fill the jobs the world depends on, and robots still can't learn on their own.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [2](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_02.mp4) | 8:00 PM | 26.20-44.95s | Moved around his whole life, and the one constant was loving to find out how things work.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [3](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_03.mp4) | 8:20 PM | 122.80-141.30s | He always wanted to live in New York, and now he builds his company here.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_04.mp4) | 8:40 PM | 54.40-77.55s | He took a job at Google just to pay off student loans, then ChatGPT showed him what robots could become.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [5](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_05.mp4) | 9:00 PM | 141.30-156.35s | Founder life gets stressful, so he keeps his mind sharp by working out.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [6](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_06.mp4) | 9:20 PM | 82.20-100.10s | So many robot demos, so where are the robots in our homes and factories?<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [7](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_07.mp4) | 9:40 PM | 34.95-52.95s | He always wanted to be an inventor, so he studied computer science, physics and engineering.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [8](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_08.mp4) | 10:00 PM | 168.60-185.65s | 80% of the world's GDP is tied up in physical labor, and robots are still stuck on repeat.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [9](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_09.mp4) | 10:20 PM | 189.22-205.25s | He loves what he does, and it doesn't feel like work.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [10](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-18-night/reel_10.mp4) | 10:40 PM | 11.35-26.35s | Putting robots to work still takes costly engineering, so robots need to learn on their own.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
