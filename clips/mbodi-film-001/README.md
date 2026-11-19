@@ -63,3 +63,24 @@ Least-overlapping clips go first. 2 per day for 9 days (7:00 and 8:30 PM), then 
 
 ## Captions
 Each caption is the hook line, then `FoundersBrief Films 001`, then `Full film at foundersbrief.vc`. See manifest.csv for hooks.
+
+## Best 10 (pending approval)
+
+Picked from the 23 with one clip per near-dup group (4 over 5, 11 over 9/10/12, 13 over 14, 17 over 18, 8 over 22, 21 over 23), skipping clip 16 (chapter card open) and clip 1 (black open). Ranked on hook, least overlap, and variety of angle. These are trimmed re-renders (files in `best10/`); the original 23 are unchanged. Proposal only, nothing scheduled. IG trial reels on the Films channel.
+
+Contact sheet (top row first frame, bottom row last frame of each): [best10_contact_sheet.png](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10_contact_sheet.png)
+
+| Order | Date, ET | Clip | Angle | Hook | In-Out (s) | Dur | Overlap | Trim | File |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | Thu Nov 19, 7:00 PM | 19 | stakes | 80% of the world's GDP is tied to physical labor, and robots are still stuck on repeat. | 168.79-177.76 | 9.0s | night #8 | none | [best_01_clip_19.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_01_clip_19.mp4) |
+| 2 | Fri Nov 20, 7:30 PM | 11 | the problem | We keep seeing robot demos, so why do robots still repeat the same motion over and over? | 82.37-94.39 | 12.0s | 4PM pack 100%; night #6 | out moved to 94.38 (was catching the next sentence) | [best_02_clip_11.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_02_clip_11.mp4) |
+| 3 | Sat Nov 21, 8:00 PM | 8 | his story | When ChatGPT arrived, he saw AI could accelerate robotics, and he knew it was time to start. | 59.06-77.45 | 18.4s | 4PM pack 100%; night #4 | in moved to 59.04 (was clipping the start of 'I') | [best_03_clip_08.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_03_clip_08.mp4) |
+| 4 | Sun Nov 22, 7:00 PM | 20 | the vision | For the first time, anyone can teach a robot new skills just by talking to it. | 177.89-189.31 | 11.4s | night #8 | none | [best_04_clip_20.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_04_clip_20.mp4) |
+| 5 | Mon Nov 23, 7:30 PM | 4 | his story | He wanted to be an inventor and make his mark, so he studied physics, computer science and engineering. | 34.87-47.17 | 12.3s | 4PM pack 100%; night #2/7 | in moved to 34.85 | [best_05_clip_04.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_05_clip_04.mp4) |
+| 6 | Tue Nov 24, 8:00 PM | 13 | the problem | The real need comes from manufacturers, logistics companies and pharma, and they taught him how to build a company. | 104.44-118.95 | 14.5s | 4PM pack 100% | out moved to 118.97 | [best_06_clip_13.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_06_clip_13.mp4) |
+| 7 | Wed Nov 25, 7:00 PM | 17 | founder life | As a founder, no two days look alike: the office, home, a warehouse, then investors in Hudson Yards. | 152.28-167.13 | 14.8s | 4PM pack 80%; night #5 | in moved to 152.28, now opens on 'I'll be honest, as a founder, every day looks different' | [best_07_clip_17.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_07_clip_17.mp4) |
+| 8 | Thu Nov 26, 7:30 PM | 2 | the problem | Putting robots to work still takes costly engineering, so robots have to learn on their own. | 11.39-22.94 | 11.6s | night #1/10 | none | [best_08_clip_02.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_08_clip_02.mp4) |
+| 9 | Fri Nov 27, 8:00 PM | 15 | New York / focus | He knows what to focus on and what not to, and he gets to do it in New York. | 118.91-128.42 | 9.5s | 4PM pack 99%; night #3 | in moved to 118.93 | [best_09_clip_15.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_09_clip_15.mp4) |
+| 10 | Sat Nov 28, 7:00 PM | 21 | the vision | He started this company because there is a better way to do robotics, and it can change the world. | 185.77-197.78 | 12.0s | night #9 | none | [best_10_clip_21.mp4](https://github.com/christianhollandfounder/foundersbrief-media/blob/main/clips/mbodi-film-001/best10/best_10_clip_21.mp4) |
+
+Each caption: the hook, then `FoundersBrief Films 001`, then `Full film at foundersbrief.vc`.
