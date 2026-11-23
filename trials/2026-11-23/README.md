@@ -1,0 +1,20 @@
+# Evening trial reels, Nov 23, 2026
+
+Personal account @christianhollandd, posted by hand. Ten clean excerpts from FoundersBrief Films 001, 1920x1080, the film's own picture, sound, music and subtitles. Overlays: "FoundersBrief Films 001" top, "Full film at foundersbrief.vc" bottom. 23.976 fps, H.264 High, about 10 Mbps, AAC 192k, keyframe every 2s.
+
+A/B opening pairs: 2 and 5 (GDP line vs teaching robots by talking), 6 and 7 (why he started the company vs "it doesn't feel like work"), 3 and 9 (title card vs factories and warehouses). Moments in today's Films page excerpts are left out; 8, 9 and 10 share a few seconds at their start or end with those excerpts.
+
+| # | Post time (ET) | Film time | Moment | Caption |
+|---|---|---|---|---|
+| [1](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_01.mp4) | 5:00 PM | 121.29-141.60s | New York | He always wanted to live in New York, and now he builds his company here.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [2](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_02.mp4) | 5:30 PM | 168.71-189.19s | Mission, A: opens on the GDP line | 80% of the world's GDP is tied up in physical labor.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [3](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_03.mp4) | 6:00 PM | 0.42-16.31s | The problem, A: opens on the film's title card | The world is facing a growing labor crisis.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [4](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_04.mp4) | 6:30 PM | 41.83-59.10s | Origin: CS, physics, engineering, then Google to pay off loans | He was only at Google to pay off his student loans.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [5](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_05.mp4) | 7:00 PM | 177.64-197.61s | Mission, B: opens on teaching robots by talking | For the first time, anyone can teach robots new skills simply by talking.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [6](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_06.mp4) | 7:30 PM | 185.60-203.75s | Personal, A: opens on why he started the company | There is a better way to do robotics.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [7](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_07.mp4) | 8:00 PM | 189.23-203.75s | Personal, B: opens on 'it doesn't feel like work' | It doesn't feel like work when you love the problem.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [8](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_08.mp4) | 8:30 PM | 72.99-87.88s | The problem: where are the robots in our homes and factories | We've been seeing demos, so where are the robots in our homes and factories?<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [9](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_09.mp4) | 9:00 PM | 5.21-22.73s | The problem, B: opens on factories and warehouses | Factories and warehouses are struggling to fill jobs.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+| [10](https://raw.githubusercontent.com/christianhollandfounder/foundersbrief-media/main/trials/2026-11-23/reel_10.mp4) | 9:30 PM | 35.08-52.80s | Origin: always wanted to be an inventor | He always wanted to be an inventor and make his mark on the world.<br>FoundersBrief Films 001<br>Full film at foundersbrief.vc |
+
+Any trial that passes about 1,000 views can become a Films page excerpt. Nothing here is posted or scheduled.
